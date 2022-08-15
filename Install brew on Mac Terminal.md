@@ -8,6 +8,7 @@ more install.sh
 chmod +x install.sh
 ./install.sh
 ```
+4. Help pages: ```man brew```
 ## Source: 
 - [Project page](https://brew.sh/)
 - [How to install Homebrew on Mac OS to use the brew package manager](https://www.cyberciti.biz/faq/how-to-install-homebrew-on-macos-package-manager/)
